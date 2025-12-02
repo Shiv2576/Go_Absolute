@@ -27,7 +27,7 @@ Your journey to mastering backend development with Golang. Follow this structure
   color: neutral
   icon: simple-icons-github
   size: xl
-  to: https://github.com/your-username/go-absolute
+  to: https://github.com/Shiv2576/Go_Absolute.git
   variant: outline
   ---
   GitHub
