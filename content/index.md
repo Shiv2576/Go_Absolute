@@ -46,7 +46,7 @@ Follow this structured path to master backend development with Golang, step by s
   ---
   icon: i-lucide-flag
   badge: "Phase 1"
-  to: /golang-fundamentals
+  to: 
   ---
   #title
   Foundation Building
@@ -58,7 +58,7 @@ Follow this structured path to master backend development with Golang, step by s
   ---
   icon: i-lucide-cpu
   badge: "Phase 2"
-  to: /concurrency-mastery
+  to: 
   ---
   #title
   Concurrency & Performance
@@ -70,7 +70,7 @@ Follow this structured path to master backend development with Golang, step by s
   ---
   icon: i-lucide-library
   badge: "Phase 3"
-  to: /standard-library-mastery
+  to: 
   ---
   #title
   Standard Library Deep Dive
@@ -82,7 +82,7 @@ Follow this structured path to master backend development with Golang, step by s
   ---
   icon: i-lucide-server
   badge: "Phase 4"
-  to: /api-development
+  to: 
   ---
   #title
   API Development
@@ -94,7 +94,7 @@ Follow this structured path to master backend development with Golang, step by s
   ---
   icon: i-lucide-network
   badge: "Phase 5"
-  to: /frameworks-routers
+  to:
   ---
   #title
   Frameworks & Production Tools
@@ -106,7 +106,7 @@ Follow this structured path to master backend development with Golang, step by s
   ---
   icon: i-lucide-database
   badge: "Phase 6"
-  to: /databases-storage
+  to: 
   ---
   #title
   Data Layer & Storage
@@ -118,7 +118,7 @@ Follow this structured path to master backend development with Golang, step by s
   ---
   icon: i-lucide-cloud
   badge: "Phase 7"
-  to: /distributed-systems
+  to: 
   ---
   #title
   Distributed Systems
@@ -130,7 +130,7 @@ Follow this structured path to master backend development with Golang, step by s
   ---
   icon: i-lucide-settings
   badge: "Phase 8"
-  to: /devops-deployment
+  to: 
   ---
   #title
   DevOps & Deployment
@@ -142,7 +142,7 @@ Follow this structured path to master backend development with Golang, step by s
   ---
   icon: i-lucide-zap
   badge: "Phase 9"
-  to: /advanced-backend-topics
+  to: 
   ---
   #title
   Advanced Concepts
@@ -163,7 +163,7 @@ Start with Phase 1 and progress through each stage to become a proficient Go bac
   ---
   color: primary
   size: xl
-  to: /golang-fundamentals
+  to: /getting-started/go_fundamentals
   trailing-icon: i-lucide-arrow-right
   ---
   Start Phase 1

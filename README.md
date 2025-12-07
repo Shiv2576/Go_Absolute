@@ -1,72 +1,38 @@
-# Docus Default Starter
+# Go Absolute
 
-> A beautiful, minimal starter for creating documentation with Docus
+A structured journey through Go — from fundamentals to advanced backend systems.
 
-This is the default Docus starter template that provides everything you need to build beautiful documentation sites with Markdown and Vue components.
+---
 
-> [!TIP]
-> If you're looking for i18n support, check out the [i18n starter](https://github.com/nuxt-themes/docus/tree/main/.starters/i18n).
+## Topics
 
-## ✨ Features
+1. **Golang Fundamentals**  
+   Syntax, types, control flow, functions, and core language constructs.
 
-- 🎨 **Beautiful Design** - Clean, modern documentation theme
-- 📱 **Responsive** - Mobile-first responsive design  
-- 🌙 **Dark Mode** - Built-in dark/light mode support
-- 🔍 **Search** - Full-text search functionality
-- 📝 **Markdown Enhanced** - Extended markdown with custom components
-- 🎨 **Customizable** - Easy theming and brand customization
-- ⚡ **Fast** - Optimized for performance with Nuxt 4
-- 🔧 **TypeScript** - Full TypeScript support
+2. **Concurrency Mastery**  
+   Goroutines, channels, `sync` package, patterns, and common pitfalls.
 
-## 🚀 Quick Start
+3. **Standard Library Mastery**  
+   Deep dive into `net/http`, `encoding/json`, `context`, `time`, and other essential packages.
 
-```bash
-# Install dependencies
-npm install
+4. **API Development**  
+   Building idiomatic, maintainable, and testable RESTful and JSON APIs.
 
-# Start development server
-npm run dev
-```
+5. **Frameworks & Routers**  
+   Comparison and usage of Gin, Echo, Chi, and stdlib-only approaches.
 
-Your documentation site will be running at `http://localhost:3000`
+6. **Databases & Storage**  
+   SQL (with `database/sql` and SQLC), NoSQL, ORM alternatives, and connection management.
 
-## 📁 Project Structure
+7. **Distributed Systems**  
+   Service discovery, gRPC, message queues, consensus patterns, and fault tolerance.
 
-```
-my-docs/
-├── content/              # Your markdown content
-│   ├── index.md         # Homepage
-│   ├── 1.getting-started/  # Getting started section
-│   └── 2.essentials/    # Essential documentation
-├── public/              # Static assets
-└── package.json         # Dependencies and scripts
-```
+8. **DevOps & Deployment**  
+   Docker, CI/CD, logging, metrics, tracing, and zero-downtime deployments.
 
-## ⚡ Built with
+9. **Advanced Backend Topics**  
+   Observability, performance profiling, memory optimization, and large-scale architecture.
 
-This starter comes pre-configured with:
+---
 
-- [Nuxt 4](https://nuxt.com) - The web framework
-- [Nuxt Content](https://content.nuxt.com/) - File-based CMS
-- [Nuxt UI](https://ui.nuxt.com) - UI components
-- [Nuxt Image](https://image.nuxt.com/) - Optimized images
-- [Tailwind CSS 4](https://tailwindcss.com/) - Utility-first CSS
-- [Docus Layer](https://www.npmjs.com/package/docus) - Documentation theme
-
-## 📖 Documentation
-
-For detailed documentation on customizing your Docus project, visit the [Docus Documentation](https://docus.dev)
-
-## 🚀 Deployment
-
-Build for production:
-
-```bash
-npm run build
-```
-
-The built files will be in the `.output` directory, ready for deployment to any hosting provider that supports Node.js.
-
-## 📄 License
-
-[MIT License](https://opensource.org/licenses/MIT) 
+> *Utility through simplicity. Power through restraint.*
